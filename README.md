@@ -96,7 +96,7 @@ done
 done
 [LAIWM 17:17:06] Final consolidation...
 [DEBUG 17:19:00] Response (1700 chars): - János worked on AI projects and set up local LLM environments for better GPU support   - János registered an IBKR TBSZ account and invested in X   - János helped with X’s diploma defense and s ...
-[LAIWM 17:19:00] Output written to **/obsidian_llm/output/monthly_summary_2026_03.md
+[LAIWM 17:19:00] Output written to **/obsidian-llm/output/monthly_summary_2026_03.md
 ```
 
 ---
@@ -193,8 +193,8 @@ ollama pull nomic-embed-text
 
 ```bash
 # Clone and install
-git clone https://github.com/GJanos/obsidian_llm
-cd obsidian_llm
+git clone https://github.com/GJanos/obsidian-llm
+cd obsidian-llm
 uv sync
 
 # Set vault path (add to ~/.bashrc to make permanent)
